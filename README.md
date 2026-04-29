@@ -105,7 +105,3 @@
 - **Frontend**: Bootstrap 4, jQuery, Vanilla JavaScript
 - **Payment Gateway(s)**: Rubika
 - **Hosting**: Windows Server / IIS
-
----
-
-**آخرین بروزرسانی**: ۲۹ اردیبهشت ۱۴۰۵
